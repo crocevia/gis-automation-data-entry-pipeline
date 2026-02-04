@@ -20,6 +20,9 @@ Once configured, the workflow allows new spatial records to be created and visua
 
 The scripts interact with the current ArcGIS project to avoid hardcoded paths and make the workflow portable.
 
+## Workflow Diagram
+![Workflow](docs/workflow_diagram.png)
+
 ## Features
 
 - User-driven data entry with customizable fields
