@@ -62,3 +62,12 @@ Alternatively, an existing CSV can be placed in the project folder and processed
 
 ArcPy-dependent scripts must be executed inside an ArcGIS Pro environment.
 Standalone versions of the program are included for use outside ArcGIS.
+
+## Repository Structure
+
+src/ – Python scripts for data entry and ArcPy processing  
+notebooks/ – Example ArcGIS Pro notebook workflow  
+docs/ – Workflow diagram and supporting documentation  
+data_example.xlsx – Sample dataset for testing
+
+
